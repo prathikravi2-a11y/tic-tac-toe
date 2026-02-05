@@ -21,6 +21,10 @@ module tb_tic_tac_toe;
         .game_over(game_over),
         .winner(winner)
     );
+    initial begin
+        $dumpfile("3t_tb.vcd");
+        $dumpvars(0,3t_tb.v);
+    end
 
     // Clock generation: 10 ns period
     always #5 clk = ~clk;
