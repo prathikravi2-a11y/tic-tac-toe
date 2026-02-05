@@ -16,7 +16,7 @@ It is created as a learning project to understand:
 
 ## 🛠️ Technologies Used
 
-- Programming Language: (add here, e.g. Verilog / C / Python)
+- Programming Language: 
 - Tools:
   - Git
   - GitHub
@@ -24,4 +24,3 @@ It is created as a learning project to understand:
 
 ---
 
-## 📂 Project Structure
