@@ -1,3 +1,4 @@
+<img width="945" height="317" alt="image" src="https://github.com/user-attachments/assets/3c4a7912-ca8d-4ef3-bf97-903637d934fa" />
 # 🎮 Tic-Tac-Toe Game in Verilog HDL
 
 > A complete **hardware-based Tic-Tac-Toe game engine** implemented using **Verilog HDL**, designed for simulation, synthesis, and real FPGA deployment.
@@ -68,6 +69,7 @@ The design is suitable for:
 | `10` | Player O |
 
 ---
+
 ## 🧪 Simulation
 
 ### ▶ Using Icarus Verilog
@@ -77,4 +79,5 @@ vvp game
 gtkwave dump.vcd
 ```
 
-![OUTPUT](Screenshot 2026-02-06 124847.png)
+<img width="945" height="317" alt="Screenshot 2026-02-06 124847" src="https://github.com/user-attachments/assets/63d4a6fa-f4be-4d37-8054-d398ecf5c358" />
+
