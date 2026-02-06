@@ -1,4 +1,5 @@
 `timescale 1ns/1ps
+`include "ttt.v"
 
 module tb_tic_tac_toe;
 
@@ -23,7 +24,8 @@ module tb_tic_tac_toe;
     );
     initial begin
         $dumpfile("3t_tb.vcd");
-        $dumpvars(0,3t_tb.v);
+        $dumpvars(0,tb_tic_tac_toe);
+        
     end
 
     // Clock generation: 10 ns period
