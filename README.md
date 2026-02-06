@@ -1,4 +1,3 @@
-<img width="945" height="317" alt="image" src="https://github.com/user-attachments/assets/3c4a7912-ca8d-4ef3-bf97-903637d934fa" />
 # 🎮 Tic-Tac-Toe Game in Verilog HDL
 
 > A complete **hardware-based Tic-Tac-Toe game engine** implemented using **Verilog HDL**, designed for simulation, synthesis, and real FPGA deployment.
