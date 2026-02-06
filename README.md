@@ -68,6 +68,7 @@ The design is suitable for:
 | `10` | Player O |
 
 ---
+
 ## 🧪 Simulation
 
 ### ▶ Using Icarus Verilog
@@ -77,4 +78,5 @@ vvp game
 gtkwave dump.vcd
 ```
 
-![OUTPUT](Screenshot 2026-02-06 124847.png)
+<img width="945" height="317" alt="Screenshot 2026-02-06 124847" src="https://github.com/user-attachments/assets/63d4a6fa-f4be-4d37-8054-d398ecf5c358" />
+
