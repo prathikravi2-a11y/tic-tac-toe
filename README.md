@@ -73,4 +73,4 @@ The design is suitable for:
 iverilog -o game tb_tic_tac_toe.v tic_tac_toe.v
 vvp game
 gtkwave dump.vcd
-![Tic Tac Toe Demo](C:\Users\deepa\Pictures\Screenshots\Screenshot 2026-02-06 124847.png)
+
